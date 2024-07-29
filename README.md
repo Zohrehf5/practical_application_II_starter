@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 212e983 (Readme file)
 
 [Report](CarPriceReport.docx)
 
